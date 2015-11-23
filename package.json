@@ -1,0 +1,10 @@
+{
+  "name": "blipkit",
+  "version": "0.0.1",
+  "description": "blipkit JavaScript SDK",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
